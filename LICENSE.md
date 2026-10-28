@@ -1,0 +1,1 @@
+Copyright (c) 2026 Rústico. Todos os direitos reservados. O uso gratuito dos binários da Kairos (baixar, instalar e rodar programas) é permitido. É proibido copiar, modificar, redistribuir ou fazer engenharia reversa da Kairos sem autorização do autor.
